@@ -30,7 +30,8 @@ html, body {
 }
 
 #login * {
-    padding: 1% 0px;
+    margin: 2.5% 0px;
+    font-family: "Campton", sans-serif;
 }
 
 #logo {
