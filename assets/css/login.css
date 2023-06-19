@@ -1,7 +1,15 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
 #info {
     background-color: var(--main-color);
     width: 50%;
+    height: 100%;
 }
+
 #login {
     width: 50%;
+    height: 100%;
 }
