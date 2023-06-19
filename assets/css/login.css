@@ -29,7 +29,7 @@ html, body {
     flex-direction: column;
 }
 
-#login * {
+#login input, button {
     margin: 2.5% 0px;
     font-family: "Campton", sans-serif;
 }
