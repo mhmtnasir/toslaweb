@@ -29,10 +29,14 @@ html, body {
     flex-direction: column;
 }
 
+#login * {
+    padding: 1% 0px;
+}
+
 #logo {
     width: calc(100% / 3);
 }
 
-body {
+* {
     font-family: "Campton", sans-serif;
 }
