@@ -32,11 +32,13 @@ html, body {
     width: calc(100% / 3);
 }
 
-h1 {
+body {
     font-family: "Campton", sans-serif;
 }
 
 .input_box {
     border: 0.25em solid var(--main-color);
     border-radius: 101vh;
+    width: 50%;
 }
+

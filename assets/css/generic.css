@@ -12,3 +12,12 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.tosla_button {
+    border-radius: 101vh;
+    background-color: var(--main-color);
+}
+.tosla_input {
+    border: 0.25em solid var(--main-color);
+    border-radius: 101vh;
+}
