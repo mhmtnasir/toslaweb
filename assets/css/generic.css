@@ -19,6 +19,14 @@
     color: #fff;
 }
 
+.tosla_button:hover {
+    filter: brightness(85%);
+}
+
+.tosla_button:active {
+    filter: brightness(60%);
+}
+
 .tosla_input {
     border: 0.25em solid var(--main-color);
     border-radius: 101vh;
