@@ -16,7 +16,9 @@
 .tosla_button {
     border-radius: 101vh;
     background-color: var(--main-color);
+    color: #fff;
 }
+
 .tosla_input {
     border: 0.25em solid var(--main-color);
     border-radius: 101vh;
