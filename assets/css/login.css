@@ -26,6 +26,7 @@ html, body {
     justify-content: center;
     align-items: center;
     font-size: 1.5em;
+    flex-direction: column;
 }
 
 #logo {
@@ -35,10 +36,3 @@ html, body {
 body {
     font-family: "Campton", sans-serif;
 }
-
-.input_box {
-    border: 0.25em solid var(--main-color);
-    border-radius: 101vh;
-    width: 50%;
-}
-

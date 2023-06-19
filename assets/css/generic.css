@@ -21,10 +21,3 @@
     border: 0.25em solid var(--main-color);
     border-radius: 101vh;
 }
-
-/* br fix from https://lists.w3.org/Archives/Public/www-style/2014Feb/0055.html */
-br {
-    content: '\A';
-    display: contents;
-    white-space: pre;
-}
