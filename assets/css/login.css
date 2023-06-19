@@ -8,6 +8,8 @@ html, body {
 #container {
     display: flex;
     height: 100%;
+    justify-content: center;
+    align-items: center;
 }
 
 #info {
@@ -19,4 +21,8 @@ html, body {
 #login {
     flex: 1;
     height: 100%;
+}
+
+#logo {
+    width: 50%;
 }
