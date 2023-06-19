@@ -4,9 +4,9 @@
 
 @font-face {
     font-family: 'Campton';
-    src: url('../../assets/fonts/Campton-Light.otf'),
+    src: url('../../assets/fonts/Campton-Medium.otf'),
+         url('../../assets/fonts/Campton-Light.otf'),
          url('../../assets/fonts/Campton-Book.otf'),
-         url('../../assets/fonts/Campton-Medium.otf'),
          url('../../assets/fonts/Campton-SemiBold.otf'),
          url('../../assets/fonts/Campton-Bold.otf');
 }
